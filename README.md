@@ -5,8 +5,6 @@
 
 ### Desarrollador Full Stack & Diseñador Digital
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2C5F8D&center=true&vCenter=true&width=435&lines=Diseño+%26+Programación;Creando+Experiencias+Digitales;Full+Stack+Developer;UI%2FUX+Enthusiast" alt="Typing SVG" />
-
 </div>
 
 ---
