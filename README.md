@@ -1,7 +1,7 @@
 
 <div align="center">
   
-# 👋 Hola, soy [Tu Nombre]
+# 👋 Hola, soy Fabio Giraldo
 
 ### Desarrollador Full Stack & Diseñador Digital
 
@@ -19,7 +19,7 @@ Soy un desarrollador apasionado por fusionar **creatividad y código** para crea
 - 💻 Desarrollador Full Stack con experiencia en tecnologías modernas
 - 🌱 Actualmente aprendiendo nuevas tecnologías y mejores prácticas
 - 💼 Abierto a colaboraciones en proyectos innovadores
-- 📫 Contáctame: **[tu-email@ejemplo.com]**
+- 📫 Contáctame: **[f.diaz1@utp.edu.co]**
 
 ---
 
@@ -32,13 +32,16 @@ Soy un desarrollador apasionado por fusionar **creatividad y código** para crea
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Diseño & Herramientas
@@ -49,73 +52,13 @@ Soy un desarrollador apasionado por fusionar **creatividad y código** para crea
 
 </div>
 
----
-
-## 📊 Estadísticas de GitHub
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2C5F8D&icon_color=2C5F8D&text_color=8B92A8)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2C5F8D&text_color=8B92A8)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=tokyonight&hide_border=true&background=0D1117&ring=2C5F8D&fire=2C5F8D&currStreakLabel=8B92A8)
-
-</div>
-
----
-
-## 🎯 Proyectos Destacados
-
-<div align="center">
-
-[![Proyecto 1](https://github-readme-stats.vercel.app/api/pin/?username=TU_USUARIO&repo=NOMBRE_REPO_1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2C5F8D&icon_color=2C5F8D&text_color=8B92A8)](https://github.com/TU_USUARIO/NOMBRE_REPO_1)
-
-[![Proyecto 2](https://github-readme-stats.vercel.app/api/pin/?username=TU_USUARIO&repo=NOMBRE_REPO_2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2C5F8D&icon_color=2C5F8D&text_color=8B92A8)](https://github.com/TU_USUARIO/NOMBRE_REPO_2)
-
-</div>
-
----
-
-## 🏆 Logros de GitHub
-
-<div align="center">
-  
-![Trofeos](https://github-profile-trophy.vercel.app/?username=TU_USUARIO&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)
-
-</div>
-
----
-
-## 📈 Actividad Reciente
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
----
-
-## 💼 Experiencia
-
-```javascript
-const experiencia = {
-    rol: "Desarrollador Full Stack & Diseñador",
-    código: ["JavaScript", "Python", "HTML", "CSS"],
-    herramientas: ["React", "Node.js", "Figma", "Git"],
-    enfoque: "Crear soluciones digitales innovadoras",
-    disponibilidad: "Abierto a nuevas oportunidades"
-};
-```
-
----
-
 ## 🌐 Conecta Conmigo
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-2C5F8D?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tu-portfolio.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-usuario)
-[![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/tu-usuario)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-email@ejemplo.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2C5F8D?style=for-the-badge&logo=google-chrome&logoColor=white)]([https://tu-portfolio.com](https://fabio-giraldo.github.io/Portafolio-Web/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/fabio-diaz-giraldo)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:f.diaz1@utp.edu.co)
 
 </div>
 
