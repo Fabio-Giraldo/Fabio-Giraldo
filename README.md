@@ -54,7 +54,7 @@ Soy un desarrollador apasionado por fusionar **creatividad y código** para crea
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-2C5F8D?style=for-the-badge&logo=google-chrome&logoColor=white)]((https://fabio-giraldo.github.io/Portafolio-Web/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-2C5F8D?style=for-the-badge&logo=google-chrome&logoColor=white)](https://fabio-giraldo.github.io/Portafolio-Web/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/fabio-diaz-giraldo)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:f.diaz1@utp.edu.co)
 
