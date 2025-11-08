@@ -1,4 +1,3 @@
-
 <div align="center">
 
   ![Profile Views](https://komarev.com/ghpvc/?username=Fabio-Giraldo&color=2C5F8D&style=flat-square)
