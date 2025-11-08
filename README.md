@@ -1,5 +1,7 @@
 
 <div align="center">
+
+  ![Profile Views](https://komarev.com/ghpvc/?username=Fabio-Giraldo&color=2C5F8D&style=flat-square)
   
 # 👋 Hola, soy Fabio Giraldo
 
@@ -11,7 +13,7 @@
 
 ## 🚀 Sobre Mí
 
-Soy un desarrollador apasionado por fusionar **creatividad y código** para crear experiencias digitales excepcionales. Me especializo en desarrollo web full stack y diseño de interfaces modernas que combinan funcionalidad con estética.
+Soy un desarrollador apasionado por fusionar **creatividad y código** para crear experiencias digitales excepcionales. Me especializo en desarrollo y diseño de todo tipo de ideas modernas que combinan funcionalidad con estética.
 
 - 🎨 Diseñador UI/UX con enfoque en experiencias corporativas
 - 💻 Desarrollador Full Stack con experiencia en tecnologías modernas
@@ -65,9 +67,6 @@ Soy un desarrollador apasionado por fusionar **creatividad y código** para crea
 <div align="center">
   
 ### 💡 "El código limpio siempre parece que fue escrito por alguien a quien le importa"
-
-![Profile Views](https://komarev.com/ghpvc/?username=TU_USUARIO&color=2C5F8D&style=flat-square)
-
 </div>
 
 ---
