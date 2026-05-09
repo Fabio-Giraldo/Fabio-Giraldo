@@ -18,7 +18,7 @@ Soy un desarrollador apasionado por fusionar **creatividad y código** para crea
 - 💻 Desarrollador Full Stack con experiencia en tecnologías modernas
 - 🌱 Actualmente aprendiendo nuevas tecnologías y mejores prácticas
 - 💼 Abierto a colaboraciones en proyectos innovadores
-- 📫 Contáctame: **[f.diaz1@utp.edu.co]**
+- 📫 Contáctame: **[fdiaz4613@gmail.com]**
 
 ---
 
